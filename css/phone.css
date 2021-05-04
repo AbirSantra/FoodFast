@@ -2,6 +2,7 @@
 #navbar{
     /* width: 100px; */
     flex-direction: column;
+    position: relative;
 }
 
 #navbar ul li a{
